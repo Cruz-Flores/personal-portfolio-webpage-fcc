@@ -166,7 +166,8 @@ img {
 
 @media (max-width: 650px) {
   .info-section > p {
-    text-align: center;
+    padding: 0px 2rem;
+    font-weight: 300;
   }
 }
 
